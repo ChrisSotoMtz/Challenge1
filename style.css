@@ -1,0 +1,374 @@
+#landing-body {
+  background: url(./assets/home/background-home-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-right: 0%;
+}
+
+#destination {
+  background-image: url(./assets/destination/background-destination-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#crew-background {
+  background-image: url(./assets/crew/background-crew-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom: 0;
+}
+
+#tech {
+  background-image: url(./assets/technology/background-technology-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom: 0;
+}
+
+#title {
+  text-align: left;
+  margin-left: auto;
+  margin-right: 200px;
+  margin-top: 0;
+  width: 30%;
+  text-transform: uppercase;
+}
+
+#charge {
+  text-align: left;
+  margin-right: auto;
+  margin-left: 200px;
+  margin-bottom: 0;
+  width: 50%;
+  font-size: 2.5rem;
+  margin-top: 220px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: gray;
+}
+#name {
+  text-align: left;
+  margin-right: auto;
+  margin-left: 200px;
+  margin-top: 10px;
+  width: 50%;
+  font-size: 4rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.astral-body {
+  position: absolute;
+  bottom: 100px;
+  left: 500px;
+}
+
+.crew-member {
+  position: absolute;
+  bottom: -8px;
+  right: 300px;
+}
+.astral-selector {
+  margin-left: auto;
+  text-align: left;
+  margin-right: 250px;
+  margin-top: 100px;
+  width: 30%;
+}
+.tech-selector {
+  background-color: rgba(255, 255, 255, 0);
+
+  color: white;
+  margin-bottom: 70px;
+  text-decoration: none;
+  font-size: 2.2rem;
+  width: 80px;
+  border: solid 1px;
+  border-color: white;
+  text-align: center;
+  border-radius: 100%;
+  line-height: 80px;
+  display: block;
+  font-family: "Nuosu SIL", serif;
+  font-weight: lighter;
+}
+.tech-selectora {
+  background-color: rgb(255, 255, 255);
+
+  color: black;
+  margin-bottom: 70px;
+  text-decoration: none;
+  font-size: 2.2rem;
+  width: 80px;
+  border: solid 1px;
+  border-color: white;
+  text-align: center;
+  border-radius: 100%;
+  line-height: 80px;
+  display: block;
+  font-family: "Nuosu SIL", serif;
+  font-weight: lighter;
+}
+
+.tech-desc {
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+.tech-top {
+  font-family: "Oswald", sans-serif;
+  color: gray;
+  font-size: 1.5rem;
+  letter-spacing: 4px;
+  margin-bottom: 0;
+}
+
+.tech-title {
+  margin-top: 0;
+  font-size: 5rem;
+  text-transform: uppercase;
+}
+
+.tech-text {
+  width: 40%;
+}
+
+.tech-img {
+  position: absolute;
+  right: 100px;
+  bottom: 10px;
+}
+.vertical-selector {
+  position: absolute;
+  bottom: 40px;
+  left: 200px;
+}
+.heading {
+  position: relative;
+  margin-top: 50px;
+}
+
+.content {
+  margin-top: 300px;
+  margin-left: 200px;
+}
+
+.bottom-content {
+  display: inline;
+  background-color: yellowgreen;
+  width: 100%;
+  display: inline;
+}
+.description {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: 200px;
+  width: 30%;
+}
+.crew-description {
+  position: relative;
+  display: block;
+  font-size: 1.5rem;
+  margin-left: auto;
+  margin-left: 200px;
+}
+
+.divisor {
+  width: 30%;
+  border-width: 0.5px 0 0 0;
+  position: absolute;
+  right: 200px;
+  bottom: 100px;
+}
+.dataname {
+  display: inline;
+  margin: auto;
+}
+.data {
+  display: inline;
+  padding-left: 90px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: lighter;
+}
+.distance {
+  margin-bottom: 10px;
+  position: absolute;
+  display: inline-block;
+  right: 270px;
+  bottom: 40px;
+}
+
+.mars-data {
+  position: absolute;
+  display: inline-block;
+  right: 15%;
+  bottom: 0px;
+  text-transform: uppercase;
+}
+.moon-data {
+  position: absolute;
+  display: inline-block;
+  right: 19%;
+  bottom: 0px;
+  text-transform: uppercase;
+}
+.europa-data {
+  position: absolute;
+  display: inline-block;
+  right: 17.3%;
+  bottom: 0px;
+  text-transform: uppercase;
+}
+
+.titan-data {
+  position: absolute;
+  display: inline-block;
+  right: 18%;
+  bottom: 0px;
+  text-transform: uppercase;
+}
+
+.crew-selector {
+  position: absolute;
+  margin-left: 200px;
+  bottom: 100px;
+}
+.crew-links {
+  background-color: gray;
+  padding: 5px 12px 5px 15px;
+  border-radius: 100%;
+  margin-left: 20px;
+  filter: blur(0.5px);
+}
+.crew-linksa {
+  background-color: white;
+  padding: 5px 12px 5px 15px;
+  border-radius: 100%;
+  margin-left: 20px;
+  filter: blur(0.5px);
+}
+.dataname {
+  padding: 100px;
+  font-size: 1.3rem;
+  color: lightgray;
+}
+
+.travel-time {
+  display: inline;
+}
+.explore-button {
+  color: black;
+  position: absolute;
+  right: 300px;
+  bottom: 0px;
+  border-radius: 100%;
+  background-color: white;
+  width: 100px;
+  font-family: "Cormorant", serif;
+  font-size: 3rem;
+  padding: 150px 140px 150px 110px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.nav-bar {
+  margin-left: auto;
+  width: 50%;
+  background-color: rgba(187, 187, 187, 0.2);
+  text-align: left;
+  padding: 30px 0 30px 0;
+  justify-content: center;
+
+  backdrop-filter: blur(4px);
+}
+.nav-links {
+  letter-spacing: 2px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.6rem;
+  margin-left: 70px;
+  color: white;
+  opacity: 1;
+}
+
+.nav-linksa {
+  border-bottom: solid 2px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.6rem;
+  margin-left: 70px;
+  padding-bottom: 30px;
+  color: white;
+  opacity: 1;
+}
+.nav-linksa2 {
+    border-bottom: solid 2px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Oswald", sans-serif;
+    font-size: 1.6rem;
+    margin-left: 70px;
+    padding-bottom: 10px;
+    color: white;
+    opacity: 1;
+  }
+.logo {
+  float: left;
+  position: relative;
+  top: 25px;
+  left: 100px;
+}
+.single {
+  border-width: 0.5px 0 0 0;
+  position: relative;
+  justify-content: left;
+  width: 40%;
+  align-self: left;
+  top: 50px;
+  z-index: 2;
+  margin: 10px 0 0 240px;
+}
+
+.dest-heading {
+  color: white;
+  margin-top: 120px;
+  margin-left: 200px;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+.boldgray {
+  margin-right: 20px;
+  color: gray;
+  font-weight: bold;
+  filter: blur(1px);
+}
+
+h1 {
+  color: white;
+  font-size: 10rem;
+  font-weight: lighter;
+  font-family: "Cormorant", serif;
+  margin-bottom: 0;
+}
+h2 {
+  margin-bottom: -5%;
+  color: white;
+  font-family: "Oswald", sans-serif;
+  font-size: 2.4rem;
+  font-weight: lighter;
+}
+
+p {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  width: 36%;
+  font-size: 1.7rem;
+  margin-bottom: 200px;
+}
