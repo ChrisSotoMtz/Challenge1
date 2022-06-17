@@ -4,3 +4,6 @@ this is my try for this css challenge https://www.frontendmentor.io/challenges/s
 
 
 https://chrissotomtz.github.io/Challenge1/destination-moon.html
+
+
+**No responsive**
